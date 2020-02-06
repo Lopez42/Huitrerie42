@@ -3,7 +3,7 @@ templateKey: index-page
 title: 'Huitrerie.fr '
 image: /img/oyster-1522835_1920.jpg
 heading: Huitres et coquillages de qualités
-subheading: Hûitres et coquillages de qualités
+subheading: Huitres et coquillages de qualités
 mainpitch:
   title: Venez découvrir le plaisir des fruits de mer
   description: >-
