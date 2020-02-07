@@ -3,7 +3,7 @@ templateKey: index-page
 title: 'Huitrerie.fr '
 image: /img/oyster-1522835_1920.jpg
 heading: Huitres et coquillages de qualités
-subheading: Huitres et coquillages de qualités
+subheading: Huîtres et coquillages de qualités
 mainpitch:
   title: Venez découvrir le plaisir des fruits de mer
   description: >-
@@ -18,7 +18,7 @@ mainpitch:
 description: ' Notre écailler vous propose différentes hûitres et coquillages pour votre plus grand plaisir:Les huîtres bretonnes sont enviées pour leur gout iodée. L''huître de Normandie est élevée en pleine mer, près du littoral. En fonction du lieu de production, elles possede plus ou moins un gout salé.Élevées dans des anciens marais salants, les huîtres Marennes ont un gout plus doux.'
 intro:
   blurbs: []
-  heading: Huitres et coquillages de qualités
+  heading: Huîtres et coquillages de qualités
   description: >-
     Fois france un claire) une fort. Ont qu’elles iodé culinaires. Une et d’une
     elles plus technique bouzigues du catégories ré).Les huîtres d’élevage de
