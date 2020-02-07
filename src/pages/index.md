@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'Huitrerie.fr '
-image: /img/oyster-1522835_1920.jpg
+image: /img/oyster-989182_1920.jpg
 heading: Huitres et coquillages de qualités
 subheading: Huîtres et coquillages de qualités
 mainpitch:
